@@ -6,8 +6,6 @@
 ## Integrantes
 **Carlos Alarcon**, **Gabriel Faria**, **Gabriele Batista** e **Ruan Pablo**.
 
-@RuanPSilva
-
 ## Duplas responsáveis por cada fase
 
 **Carlos e Ruan**
