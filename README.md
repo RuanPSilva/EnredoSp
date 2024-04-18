@@ -17,5 +17,5 @@
 * Galeria do rock
 
 ## wiki
-- <a href=""> Sinopse </a>
+- <a href="https://github.com/Gabriele-sousa/EnredoSp/wiki/Sinopse-Geral"> Sinopse </a>
 - <a href="https://github.com/Gabriele-sousa/EnredoSp/wiki/Sinopse-Geral"> Descrição do projeto </a>
