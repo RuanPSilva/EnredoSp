@@ -4,15 +4,15 @@
 
 
 ## Integrantes
-**Carlos Alarcon**, **Gabriel Faria**, **Gabriele Batista** e **Ruan Pablo**.
+**Gabriel Faria**,**Pedro ferraz** **Leonardo Macedo** e **Ruan Pablo**.
 
 ## Duplas responsáveis por cada fase
 
-**Carlos e Ruan**
+**Leonardo e Ruan**
 * Clube de futebol
 * Parana Piacaba
 
-**Gabriel e Gabriele**
+**Gabriel e Pedro Ferraz**
 * Liberdade
 * Galeria do rock
 
