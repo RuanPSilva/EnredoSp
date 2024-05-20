@@ -10,7 +10,7 @@
 
 **Leonardo e Ruan**
 * Clube de futebol
-* Parana Piacaba
+* Paranapiacaba
 
 **Gabriel e Pedro Ferraz**
 * Liberdade
