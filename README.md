@@ -24,6 +24,6 @@
 - <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Scripts"> Scripts </a>
 
 ## Descrição das cenas
-- <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-1"> Fase 1 </a>
-- <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-2-(Paranapiacaba)"> Fase 2 </a>
+- <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-1"> Fase 1 (Clube de Futebol) </a>
+- <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-2-(Paranapiacaba)"> Fase 2 (Paranapiacaba)</a>
 
