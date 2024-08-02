@@ -10,10 +10,10 @@
 
 **Leonardo e Ruan**
 * Clube de futebol
-* Paranapiacaba
+* Liberdade
 
 **Gabriel e Pedro Ferraz**
-* Liberdade
+* Paranapiacaba
 * Galeria do rock
 
 # Wiki
