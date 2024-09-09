@@ -29,4 +29,5 @@
 ## Descrição das cenas
 - <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-1"> Fase 1 (Clube de Futebol) </a>
 - <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-2-(Paranapiacaba)"> Fase 2 (Paranapiacaba)</a>
+- <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-3-%E2%80%90-Galeria-Do-Rock"> Fase 3 (Galeria Do Rock)</a>
 
