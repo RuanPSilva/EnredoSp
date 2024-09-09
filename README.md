@@ -4,7 +4,7 @@
 
 
 ## Integrantes
-**Gabriel Faria**,**Pedro ferraz** **Leonardo Macedo** e **Ruan Pablo** **João Lucas**..
+**Gabriel Faria**,**Pedro ferraz**, **Leonardo Macedo**, **Ruan Pablo** e **João Lucas**..
 
 ## Duplas responsáveis por cada fase
 
