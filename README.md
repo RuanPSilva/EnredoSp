@@ -16,7 +16,7 @@
 * Paranapiacaba
 * Galeria do rock
 
-**João Lucas**
+**João Bobo (Ele é muito bobo)**
 * Jardim Botânico - Fase Final
 
 # Wiki
