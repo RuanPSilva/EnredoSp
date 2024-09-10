@@ -8,7 +8,7 @@
 
 ## Duplas responsáveis por cada fase
 
-**Leonardo e Ruan**
+**Leonardo Bobo demais kk e Ruan**
 * Clube de futebol
 * Liberdade
 
@@ -16,7 +16,7 @@
 * Paranapiacaba
 * Galeria do rock
 
-**João Bobo (Ele é muito bobo)**
+**João Lucas**
 * Jardim Botânico - Fase Final
 
 # Wiki
