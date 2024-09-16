@@ -1,23 +1,4 @@
-# EnredoSp
-
-## Nome do projeto 
-
-
-## Integrantes
-**Gabriel Faria**,**Pedro ferraz**, **Leonardo Macedo**, **Ruan Pablo** e **João Lucas**..
-
-## Duplas responsáveis por cada fase
-
-**Leonardo Bobo demais kk e Ruan**
-* Clube de futebol
-* Liberdade
-
-**Gabriel e Pedro Ferraz**
-* Paranapiacaba
-* Galeria do rock
-
-**João Lucas**
-* Jardim Botânico - Fase Final
+# Resgate dos Animanos 😱
 
 # Wiki
 - <a href="https://github.com/Gabriele-sousa/EnredoSp/wiki/Sinopse-Geral"> Sinopse </a>
@@ -32,3 +13,19 @@
 - <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-2-(Paranapiacaba)"> Fase 2 (Paranapiacaba)</a>
 - <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-3-%E2%80%90-Galeria-Do-Rock"> Fase 3 (Galeria Do Rock)</a>
 
+
+## Integrantes
+**Gabriel Faria, Pedro ferraz, Leonardo Macedo, Ruan Pablo e João Lucas**
+
+## Duplas responsáveis por cada fase
+
+**Leonardo e Ruan**
+* Clube de futebol
+* Liberdade
+
+**Gabriel Faria e Pedro Ferraz**
+* Paranapiacaba
+* Galeria do rock
+
+**João Lucas**
+* Jardim Botânico - Fase Final
