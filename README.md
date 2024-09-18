@@ -1,4 +1,6 @@
 # Resgate dos Animanos 😱
+  ![5348d102-2430-4aa1-a223-4d366a21394e](https://github.com/user-attachments/assets/76e172b5-8833-4402-9097-dc49e1f9a6e5)
+### Jogo para aqueles que não temem o terrivel Lobisomem! Nele você terá que encontrar os animais espalhados pelo mapa, jogue e descubra o verdadeiro terror
 
 # Wiki
 - <a href="https://github.com/Gabriele-sousa/EnredoSp/wiki/Sinopse-Geral"> Sinopse </a>
