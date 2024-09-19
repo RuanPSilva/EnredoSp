@@ -14,6 +14,7 @@
 - <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-1"> Fase 1 (Clube de Futebol) </a>
 - <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-2-(Paranapiacaba)"> Fase 2 (Paranapiacaba)</a>
 - <a href="https://github.com/RuanPSilva/EnredoSp/wiki/Fase-3-%E2%80%90-Galeria-Do-Rock"> Fase 3 (Galeria Do Rock)</a>
+- <a href="https://github.com/RuanPSilva/Resgate_Dos_Animanos.wiki.git"> (Liberdade)</a>
 - <a href="https://github.com/RuanPSilva/Resgate_Dos_Animanos/wiki/Jardim-Botânico-(Fase-Final)"> Fase Final (Jardim Botânico)</a> 
 
 
