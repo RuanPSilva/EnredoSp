@@ -24,12 +24,12 @@
 ## Duplas responsáveis por cada fase
 
 **Leonardo e Ruan**
-* Clube de futebol
-* Liberdade
+* Clube de futebol - Fase 1
+* Galeria do Rock - Fase 3
 
 **Gabriel Faria e Pedro Ferraz**
-* Paranapiacaba
-* Galeria do rock
+* Paranapiacaba - Fase 2
+* Liberdade - Fase 4
 
 **João Lucas**
 * Jardim Botânico - Fase Final
