@@ -2,6 +2,25 @@
   ![5348d102-2430-4aa1-a223-4d366a21394e](https://github.com/user-attachments/assets/76e172b5-8833-4402-9097-dc49e1f9a6e5)
 ### Jogo para aqueles que não temem o terrivel Lobisomem! Nele você terá que encontrar os animais espalhados pelo mapa, jogue e descubra o verdadeiro terror
 
+## Integrantes
+**Gabriel Faria, Pedro ferraz, Leonardo Macedo, Ruan Pablo e João Lucas**
+
+## Duplas responsáveis por cada fase
+
+**Leonardo e Ruan**
+* Clube de futebol - Fase 1
+* Galeria do Rock - Fase 3
+
+**Gabriel Faria e Pedro Ferraz**
+* Paranapiacaba - Fase 2
+* Liberdade - Fase 4
+
+**João Lucas**
+* Jardim Botânico - Fase Final
+<br>
+
+# Link do Projeto com o vídeo da GamePlay Completa
+<a href="https://drive.google.com/drive/folders/1Edpb9LSPntsT-huQfzbXpN24WDFNdK20?usp=sharing"> Link no Drive </a>
 # Wiki
 - <a href="https://github.com/Gabriele-sousa/EnredoSp/wiki/Sinopse-Geral"> Sinopse </a>
 - <a href="https://github.com/Gabriele-sousa/EnredoSp/wiki/Descri%C3%A7%C3%A3o-do-projeto"> Descrição do projeto </a>
@@ -18,18 +37,4 @@
 - <a href="https://github.com/RuanPSilva/Resgate_Dos_Animanos/wiki/Jardim-Botânico-(Fase-Final)"> Fase Final (Jardim Botânico)</a> 
 
 
-## Integrantes
-**Gabriel Faria, Pedro ferraz, Leonardo Macedo, Ruan Pablo e João Lucas**
 
-## Duplas responsáveis por cada fase
-
-**Leonardo e Ruan**
-* Clube de futebol - Fase 1
-* Galeria do Rock - Fase 3
-
-**Gabriel Faria e Pedro Ferraz**
-* Paranapiacaba - Fase 2
-* Liberdade - Fase 4
-
-**João Lucas**
-* Jardim Botânico - Fase Final
